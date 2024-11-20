@@ -1,5 +1,13 @@
-#ifndef INCLUDED_tlsf
-#define INCLUDED_tlsf
+/*
+ * tlsf.h -- Two Level Segregated Fit memory allocator
+ *
+ * Copyright (c) 2006-2016, Matthew Conte
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
+ *
+ */
+#ifndef TLSF_H
+#define TLSF_H
 
 /*
 ** Two Level Segregated Fit memory allocator, version 3.1.

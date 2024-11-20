@@ -1,3 +1,11 @@
+/*
+ * tlsf.c
+ *
+ * Copyright (c) 2006-2016, Matthew Conte
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
+ *
+ */
 #include <assert.h>
 #include <limits.h>
 #include <stddef.h>
